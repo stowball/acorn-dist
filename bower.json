@@ -1,0 +1,31 @@
+{
+  "name": "acorn-dist",
+  "homepage": "https://github.com/stowball/acorn-dist",
+  "authors": [
+    "Marijn Haverbeke <marijnh@gmail.com",
+    "Ingvar Stepanyan <me@rreverser.com>",
+    "Matt Stow <matt@mattstow.com>"
+  ],
+  "description": "Tern's Acorn dist files for bower",
+  "main": [
+    "dist/acorn.js",
+    "dist/acorn_loose.js",
+    "dist/walk.js"
+  ],
+  "keywords": [
+    "tern",
+    "acorn",
+    "javascript",
+    "parser",
+    "codemirror",
+    "ace"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
